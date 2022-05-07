@@ -4,7 +4,7 @@ Projeto criado para realizar conversoes de moedas para o Real. Inicialmente real
 
 ## Conversões
 
-  São realizadas por meio de uma free api específica para conversões de moedas a partir de requisições que conste qual a moeda a ser convertida e para qual deseja converter.  
+  São realizadas por meio de uma free api específica para conversões de moedas a partir de uma requisição que conste qual a moeda a ser convertida e para qual se deseja converter.  
   Como resultado obtemos um JSON com o seguinte formato
   
   {
