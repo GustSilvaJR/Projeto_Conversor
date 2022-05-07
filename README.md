@@ -1,3 +1,4 @@
+<img width="920" alt="Conversor" src="https://user-images.githubusercontent.com/69401280/167271134-30a77df4-fa8a-4885-997f-373257320ae5.png">
 # Projeto_Conversor
 
 Projeto criado para realizar conversoes de moedas para o Real. Inicialmente realiza conversões estáticas mas em futuras versões terá essa funcionalidade de forma dinâmica.
@@ -16,3 +17,4 @@ Projeto criado para realizar conversoes de moedas para o Real. Inicialmente real
   
   
   Para mais informações: https://www.currencyconverterapi.com/docs
+
