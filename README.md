@@ -9,8 +9,10 @@ Projeto criado para realizar conversoes de moedas para o Real. Inicialmente real
   Como resultado obtemos um JSON com o seguinte formato
   
   {
+  
     "USD_PHP": 46.211,
     "PHP_USD": 0.02163987
+  
   }
   
   Para mais informações: https://www.currencyconverterapi.com/docs
